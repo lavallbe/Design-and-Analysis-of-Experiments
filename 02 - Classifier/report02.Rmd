@@ -14,7 +14,7 @@ header-includes:
 - \fancyfoot[LE,RO]{\thepage}
 
 ---  
-Coordenador: Danny Tonidandel    
+Coordenador: Danny Tonidandel
 Relator: Alessandro Cardoso
 Verificador:  Gustavo Vieira
 Monitor: Bernardo Marques  
