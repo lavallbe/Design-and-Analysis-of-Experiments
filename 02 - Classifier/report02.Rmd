@@ -176,7 +176,7 @@ H_{1}: \mu_{p} - \mu_{a} < 0
 
 $$\left\{\begin{array}{rc}
 H_{0}: \mu_{p} - \mu_{a} = -\delta^{*}_{acurácia}\\
-H_{1}: \mu_{p} - \mu_{a} < 0 
+H_{1}: \mu_{p} - \mu_{a} < -\delta^{*}_{acurácia} 
 \end{array}\right.$$
 
 Sendo $\mu_{p}$ e $\mu_{a}$, as médias de tempo de execução dos algoritmos _proposto_ e _padrão atual_ respectivamente.
